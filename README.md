@@ -71,11 +71,8 @@ cd ~/ros2_ws
 
 ```bash
 cd ~/ros2_ws/src
-git clone <DEIN_REPO> turtlebot3_aruco_teleop
+git clone https://github.com/CaioMarcasMenz/turtlebot3_aruco_teleop.git turtlebot3_aruco_teleop
 ```
-
-> **Hinweis:**  
-> Ersetze `<DEIN_REPO>` durch die URL deines eigenen GitHub-Repositories.
 
 ---
 
