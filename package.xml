@@ -4,8 +4,8 @@
   <version>0.0.1</version>
   <description>TurtleBot3 Teleoperation mit ArUco + RealSense</description>
 
-  <maintainer email="dein.name@example.com">Dein Name</maintainer>
-  <license>MIT</license>
+  <maintainer email="caiomarcasmenz.cmm+contact@gmail.com">CaioMarcasMenz</maintainer>
+  <license></license>
 
   <buildtool_depend>ament_python</buildtool_depend>
 
